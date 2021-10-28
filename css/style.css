@@ -1,0 +1,16 @@
+body {
+	background-size: 100%;
+}
+
+.btn{
+	border: none;
+	background-color: #5ECF5C;
+	margin-left: 40%;
+	width: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.btn:hover{
+	background-color: #4BAD49;
+}
